@@ -7,7 +7,7 @@ tagline: "Huaqianbei is known as the epicenter of electronics markets. This map 
 location:
     - place: Huaqianbei, Shenzhen, China
 project-link:
-    - href: bendd165.github.io/final/index.html
+    - href: http://bendd165.github.io/final/index.html
 tags:
     - tag: e-waste
     - tag:  repair
